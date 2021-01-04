@@ -1,0 +1,11 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "Basic GraphQL",
+  "main": "index.js",
+  "repository": "https://github.com/junyeong-dev/graphql.git",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
