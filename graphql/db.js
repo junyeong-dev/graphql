@@ -7,13 +7,13 @@ let movies = [
     {
         id: 2,
         title: "About time",
-        score: 4.5,
+        score: 5,
     },
     {
         id: 3,
         title: "Notebook",
-        score: 3.5,
-    },
+        score: 3,
+    }
 ];
 
 export const getMovies = () => movies;
