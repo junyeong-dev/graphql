@@ -14,3 +14,6 @@ install babel-node
 - yarn add babel-node
 - yarn global add babel-cli --ignore-engines
 - yarn add babel-cli babel-preset-env babel-preset-stage-3 --dev
+
+install node-fetch
+- yarn add node-fetch
