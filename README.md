@@ -17,3 +17,6 @@ install babel-node
 
 install node-fetch
 - yarn add node-fetch
+
+install axios
+- yarn add axios
